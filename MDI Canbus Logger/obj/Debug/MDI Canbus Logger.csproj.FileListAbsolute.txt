@@ -1,0 +1,22 @@
+C:\Users\tdupras\Documents\ecu tuning\8.20.2020\MDI Canbus Logger\obj\Debug\MDI Canbus Logger.csprojAssemblyReference.cache
+C:\Users\tdupras\Documents\ecu tuning\8.20.2020\MDI Canbus Logger\obj\Debug\MDI_Canbus_Logger.Properties.Resources.resources
+C:\Users\tdupras\Documents\ecu tuning\8.20.2020\MDI Canbus Logger\obj\Debug\MDI Canbus Logger.csproj.GenerateResource.cache
+C:\Users\tdupras\Documents\ecu tuning\8.20.2020\MDI Canbus Logger\obj\Debug\MDI Canbus Logger.csproj.CoreCompileInputs.cache
+C:\Users\tdupras\Documents\ecu tuning\8.20.2020\MDI Canbus Logger\bin\Debug\MDI Canbus Logger.exe.config
+C:\Users\tdupras\Documents\ecu tuning\8.20.2020\MDI Canbus Logger\bin\Debug\MDI Canbus Logger.exe
+C:\Users\tdupras\Documents\ecu tuning\8.20.2020\MDI Canbus Logger\bin\Debug\MDI Canbus Logger.pdb
+C:\Users\tdupras\Documents\ecu tuning\8.20.2020\MDI Canbus Logger\bin\Debug\J2534-Sharp.dll
+C:\Users\tdupras\Documents\ecu tuning\8.20.2020\MDI Canbus Logger\obj\Debug\MDI Canbus Logger.csproj.CopyComplete
+C:\Users\tdupras\Documents\ecu tuning\8.20.2020\MDI Canbus Logger\obj\Debug\MDI Canbus Logger.exe
+C:\Users\tdupras\Documents\ecu tuning\8.20.2020\MDI Canbus Logger\obj\Debug\MDI Canbus Logger.pdb
+C:\Users\Owner\Documents\DIY ECM tuning\8.18.2020\MDI Canbus Logger\bin\Debug\MDI Canbus Logger.exe.config
+C:\Users\Owner\Documents\DIY ECM tuning\8.18.2020\MDI Canbus Logger\bin\Debug\MDI Canbus Logger.exe
+C:\Users\Owner\Documents\DIY ECM tuning\8.18.2020\MDI Canbus Logger\bin\Debug\MDI Canbus Logger.pdb
+C:\Users\Owner\Documents\DIY ECM tuning\8.18.2020\MDI Canbus Logger\bin\Debug\J2534-Sharp.dll
+C:\Users\Owner\Documents\DIY ECM tuning\8.18.2020\MDI Canbus Logger\obj\Debug\MDI Canbus Logger.csprojAssemblyReference.cache
+C:\Users\Owner\Documents\DIY ECM tuning\8.18.2020\MDI Canbus Logger\obj\Debug\MDI_Canbus_Logger.Properties.Resources.resources
+C:\Users\Owner\Documents\DIY ECM tuning\8.18.2020\MDI Canbus Logger\obj\Debug\MDI Canbus Logger.csproj.GenerateResource.cache
+C:\Users\Owner\Documents\DIY ECM tuning\8.18.2020\MDI Canbus Logger\obj\Debug\MDI Canbus Logger.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\DIY ECM tuning\8.18.2020\MDI Canbus Logger\obj\Debug\MDI Canbus Logger.csproj.CopyComplete
+C:\Users\Owner\Documents\DIY ECM tuning\8.18.2020\MDI Canbus Logger\obj\Debug\MDI Canbus Logger.exe
+C:\Users\Owner\Documents\DIY ECM tuning\8.18.2020\MDI Canbus Logger\obj\Debug\MDI Canbus Logger.pdb
